@@ -38,5 +38,7 @@ $ npm install
 $ npm start
 ```
 Connect Ganache network to Metamask wallet with RPC server address <br />
-Import testing accounts with fake ETH to wallet
+Import testing accounts with fake ETH to wallet <br />
+You can now play game
+
 
