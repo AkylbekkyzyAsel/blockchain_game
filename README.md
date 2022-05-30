@@ -24,9 +24,11 @@ clone repository
 ```
 git clone https://github.com/AkylbekkyzyAsel/blockchain_game.git
 ```
+```
 $ cd ./blockchain_game
 $ npm install
 $ npm start
+```
 download ganache 
 ```
 https://trufflesuite.com/ganache/
